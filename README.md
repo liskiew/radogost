@@ -1,4 +1,7 @@
 # radogost
+[![Stories in Ready](https://badge.waffle.io/goodylabs/radogost.svg?label=ready&title=Ready)](http://waffle.io/goodylabs/radogost)
+[![Stories in Progress](https://badge.waffle.io/goodylabs/radogost.svg?label=in%20progress&title=In+Progress)](http://waffle.io/goodylabs/radogost)
+[![Stories in Done](https://badge.waffle.io/goodylabs/radogost.svg?label=done&title=Done)](http://waffle.io/goodylabs/radogost)
 
 [Radogost](http://en.wikipedia.org/wiki/Radegast_%28god%29) 
 is an old god of hospitality in the Slavic mythology.
