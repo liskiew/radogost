@@ -1,5 +1,4 @@
 # radogost
-[![Stories in Backlog](https://badge.waffle.io/goodylabs/radogost.svg?label=Backlog&title=Backlog)](http://waffle.io/goodylabs/radogost)
 [![Stories in Ready](https://badge.waffle.io/goodylabs/radogost.svg?label=ready&title=Ready)](http://waffle.io/goodylabs/radogost)
 [![Stories in Progress](https://badge.waffle.io/goodylabs/radogost.svg?label=in%20progress&title=In%20Progress)](http://waffle.io/goodylabs/radogost)
 
